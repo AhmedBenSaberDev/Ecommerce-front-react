@@ -1,0 +1,18 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.css');
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+@import url("https://fonts.googleapis.com/css?family=Roboto|Varela+Round");
+
+
+body {
+    font-family: 'Varela Round', sans-serif;
+}
+.main-wapper{
+    min-height: 90vh;
+}
+a{
+    text-decoration: none;
+    color: unset;
+}
+a:hover{
+    color: unset;
+}
